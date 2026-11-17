@@ -6,7 +6,8 @@
 
 <p align="center">Your Valorant shop, night market and inventory on your PC and your phone, without opening the game.</p>
 
-[insert img of the shop page with the bundle banner and daily offers here]
+<img width="2544" height="1364" alt="image" src="https://github.com/user-attachments/assets/3617d530-0955-4d0f-9a4b-8bf8000ac68a" />
+
 
 ## What it does
 
